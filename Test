@@ -1,15 +1,15 @@
 {
   "title": "The Ember Knight",
-  "description": " ",
+  "description": "",
   "artist": "Hwandaeng",
   "author": "Hwandaeng",
-  "cover": " ",
+  "cover": "",
   "chapters": {
     "224": {
-      "title": " ",
-      "volume": " ",
+      "title": "",
+      "volume": "",
       "groups": {
-        "AsdAsdAsd": "/proxy/api/imgur/chapter/<imgur id>/"
+        "The Ember Knight Discord": "/proxy/api/imgur/chapter/<imgur id>/"
       },
       "last_updated": "1616368746"
     }
